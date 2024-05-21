@@ -5,7 +5,10 @@
 
 
 
-![Image](https://github.com/users/mehran-esfandiari/projects/1/assets/165242715/f7def240-ab2d-40b2-bbfc-c3b0c3628edd)
+![SubVuln-hunter](https://github.com/mehran-esfandiari/SubVuln-Hunter/assets/165242715/117a3e2e-22f6-4e0f-bf7f-467629df55e9)
+
+
+
 
 
 
@@ -38,9 +41,6 @@ This project is an automated tool designed to find subdomains associated with IP
 2. Set Up Virtual Environment and Install Dependencies:
 
    ```sh
-
-    python3 -m venv env
-    source env/bin/activate  # On Windows use `env\Scripts\activate`
     pip install -r requirements.txt
 3. Configure Your VirusTotal API Key:
 
