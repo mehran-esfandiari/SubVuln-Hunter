@@ -62,4 +62,4 @@ This project is an automated tool designed to find subdomains associated with IP
 This project is intended for educational and research purposes only. The author does not condone or support any illegal activities and will not be held responsible for any misuse of this code. Users are solely responsible for ensuring that their use of this project complies with all applicable laws and regulations.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE ](url)file for details.
+This project is licensed under the MIT License - see the [LICENSE ](https://github.com/mehran-esfandiari/SubVuln-Hunter/blob/main/LICENSE) file for details.
